@@ -114,4 +114,4 @@ php artisan db:seed
 * Laravel v5.5
 * Bootstrap v4.1.3 
 
-If you have any suggestion or found some debug, feel free to contact me.
+If you have any suggestions or found some debug, feel free to contact me.
